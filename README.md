@@ -1,4 +1,4 @@
-# COGECOIN (forked 'COSMOS SDK'Cosmos SDK)
+# COGECOIN (forked 'COSMOS SDK')
 ![banner](docs/cosmos-sdk-image.png)
 
 [![version](https://img.shields.io/github/tag/cosmos/cosmos-sdk.svg)](https://github.com/cosmos/cosmos-sdk/releases/latest)
