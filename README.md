@@ -35,4 +35,4 @@ The Cosmos Hub application, `gaia`, has moved to its [own repository](https://gi
 ## Disambiguation
 
 This Cosmos-SDK project is not related to the [React-Cosmos](https://github.com/react-cosmos/react-cosmos) project (yet). Many thanks to Evan Coury and Ovidiu (@skidding) for this Github organization name. As per our agreement, this disambiguation notice will stay here.
-# cogecoin-wallet
+# cogecoin-wallet is forked 'COSMOS SDK'
